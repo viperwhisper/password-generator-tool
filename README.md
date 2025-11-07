@@ -55,7 +55,7 @@ GitHub: https://github.com/viperwhisper
 ---
 ## Download
 リリースページから最新の実行ファイルを入手してください:
-https://github.com/<user>/<repo>/releases/latest
+https://github.com/viperwhisper/password-generator-tool/releases
 
 ---
 ## Password Generator Tool
@@ -114,4 +114,4 @@ GitHub: https://github.com/viperwhisper
 ---
 ## Download
 Get the latest executable from the Releases page:
-https://github.com/<user>/<repo>/releases/latest
+https://github.com/viperwhisper/password-generator-tool/releases

@@ -33,13 +33,21 @@ Python製パスワード生成アプリ。
 ```bash
 pip install customtkinter pillow
 python password_maker.py
-EXEを直接使う
+```
+
+---
+
+### EXEを直接使う
 dist/password_maker.exe をダブルクリックで起動。
 
-注意 / Notes
+---
+
+## 注意 / Notes
 このツールで生成されたパスワードは自動保存されません。
 必要に応じて安全な場所に保存してください。
 
-作者 / Author
+---
+
+## 作者 / Author
 akira_xxh
 GitHub: https://github.com/viperwhisper

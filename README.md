@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # パスワード生成ツール | Password Generator Tool
 
 美しいUIとユニバーサルデザインを意識した  
@@ -33,3 +34,9 @@ Python製パスワード生成アプリ
 ```bash
 pip install customtkinter pillow
 python password_maker.py
+### EXEを直接使う
+dist/password_maker.exe をダブルクリックで起動。
+=======
+# password-generator-tool
+A simple, modern password generator built with Python + CustomTkinter
+>>>>>>> b41feca78564c1c660da045657ac8200c39bf90a

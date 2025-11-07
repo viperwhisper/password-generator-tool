@@ -53,6 +53,11 @@ akira_xxh
 GitHub: https://github.com/viperwhisper
 
 ---
+## Download
+リリースページから最新の実行ファイルを入手してください:
+https://github.com/<user>/<repo>/releases/latest
+
+---
 ## Password Generator Tool
 
 A Python-based password generation app designed with a beautiful UI and universal design in mind
@@ -105,3 +110,8 @@ Save them to a secure location as needed
 ## Author
 akira_xxh
 GitHub: https://github.com/viperwhisper
+
+---
+## Download
+Get the latest executable from the Releases page:
+https://github.com/<user>/<repo>/releases/latest

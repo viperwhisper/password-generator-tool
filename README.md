@@ -1,21 +1,20 @@
-<<<<<<< HEAD
 # パスワード生成ツール | Password Generator Tool
 
 美しいUIとユニバーサルデザインを意識した  
-Python製パスワード生成アプリ
+Python製パスワード生成アプリ。
 
 ---
 
 ## 特徴 / Features
 
-ダーク・ライトモード対応  
-日本語 / 英語切り替え  
-アイコン付きモダンUI（CustomTkinter製）  
-強度プリセット（弱・中・強）  
-似た文字を除外するオプション  
-自動コピー機能  
-注意書き付きで安心設計  
-オフラインで安全に動作  
+- ダーク・ライトモード対応  
+- 日本語 / 英語切り替え  
+- アイコン付きモダンUI（CustomTkinter製）  
+- 強度プリセット（弱・中・強）  
+- 似た文字を除外するオプション  
+- 自動コピー機能  
+- 注意書き付きで安心設計  
+- オフラインで安全に動作  
 
 ---
 
@@ -34,9 +33,13 @@ Python製パスワード生成アプリ
 ```bash
 pip install customtkinter pillow
 python password_maker.py
-### EXEを直接使う
+EXEを直接使う
 dist/password_maker.exe をダブルクリックで起動。
-=======
-# password-generator-tool
-A simple, modern password generator built with Python + CustomTkinter
->>>>>>> b41feca78564c1c660da045657ac8200c39bf90a
+
+注意 / Notes
+このツールで生成されたパスワードは自動保存されません。
+必要に応じて安全な場所に保存してください。
+
+作者 / Author
+akira_xxh
+GitHub: https://github.com/viperwhisper
